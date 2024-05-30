@@ -8,7 +8,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on web development 
-- 🌱 I’m currently learning javascript an c/c++ 
+- 🌱 I’m currently learning javascript and c/c++ 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
