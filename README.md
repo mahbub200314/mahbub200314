@@ -6,7 +6,7 @@
 Skills:  HTML / CSS / Bootstrap / JavaScript.
 
 - 🔭 I’m currently working on web development 
-- 🌱 I’m currently learning javascript and React js
+- 🌱 I’m currently learning  React js
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
