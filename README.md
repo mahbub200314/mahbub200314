@@ -3,10 +3,10 @@
 ### Hi there 👋, My name is MAHBUB
 #### Front-end Web Developer.
 
-Skills:  HTML / CSS / Tailwind CSS / JavaScript.
+Skills:  HTML / CSS / Tailwind CSS / JavaScript/ReactJS/Fire base.
 
 - 🔭 I’m currently working on web development 
-- 🌱 I’m currently learning  React js
+- 🌱 I’m currently learning  NextJS
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
