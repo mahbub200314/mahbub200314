@@ -3,12 +3,11 @@
 ### Hi there 👋, My name is MAHBUB
 #### Front-end Web Developer.
 
-Skills:  HTML / CSS / Tailwind CSS / JavaScript/ReactJS/Fire base.
+Skills:  HTML / CSS / Tailwind CSS / Next.js/React.js/Fire base / redux-toolkit / API handeling.
 
 - 🔭 I’m currently working on web development 
-- 🌱 I’m currently learning  NextJS
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web development 
+- 💬 What's type web you went?
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahbub200314)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahbub20038)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahbub20038/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mahbub2003814)  
