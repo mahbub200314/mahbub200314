@@ -1,4 +1,4 @@
-![Front-end Web Developer](file:///C:/Users/IT/Downloads/WhatsApp%20Image%202026-03-07%20at%2010.14.48%20PM.jpeg))
+![Front-end Web Developer]([file:///C:/Users/IT/Downloads/WhatsApp%20Image%202026-03-07%20at%2010.14.48%20PM.jpeg]))
 
 ### Hi there 👋, My name is MAHBUB
 #### Front-end Web Developer.
