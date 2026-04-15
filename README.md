@@ -1,30 +1,51 @@
-![Frontend Developer](https://i.pinimg.com/1200x/e6/58/c6/e658c688a9f7829c28679c81d6643b3e.jpg)
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/e6/58/c6/e658c688a9f7829c28679c81d6643b3e.jpg" alt="Frontend Developer" />
+</p>
 
-### Hi there 👋, My name is MAHBUB
-#### Front-end Web Developer.
+---
 
-Skills:  HTML / CSS / Tailwind CSS / Next.js/React.js/Fire base / redux-toolkit / API handeling.
+### 👋 Hi there, I'm Mahbub
+#### 🚀 Front-End Web Developer
 
-- 🔭 I’m currently working on web development 
-- 👯 I’m looking to collaborate on github 
-- 💬 What's type web you went?
+I build responsive, modern, and user-friendly web applications using React, Next.js, and Tailwind CSS.  
+I love turning ideas into real-world projects.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahbub200314)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahbub20038)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mahbub20038/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mahbub2003814)  
+### 💻 Skills
+- HTML, CSS, Tailwind CSS  
+- JavaScript (ES6+)  
+- React.js & Next.js  
+- Firebase  
+- Redux Toolkit  
+- API Integration  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahbub200314)](https://github.com/ryo-ma/github-profile-trophy)
+### 📌 Current Activities
+- 🔭 I’m currently working on web development projects  
+- 👯 I’m looking to collaborate on GitHub  
+- 💬 Ask me about web development  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub200314)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub200314&show_icons=true&count_private=true)  
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://github.com/mahbub200314"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30"/></a>
+<a href="https://www.facebook.com/mahbub20038"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30"/></a>
+<a href="https://www.instagram.com/mahbub20038"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30"/></a>
+<a href="https://twitter.com/mahbub2003814"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30"/></a>
+</p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahbub200314/contributions?format=svg&private=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/mahbub200314)  
+### 📊 GitHub Stats
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahbub200314)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbub200314&show_icons=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahbub200314)
 
-  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mahbub200314)
+
+---
