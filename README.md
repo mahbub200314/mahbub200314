@@ -19,12 +19,14 @@ I love turning ideas into real-world projects.
 - React.js & Next.js  
 - Firebase  
 - Redux Toolkit  
-- API Integration  
+- API Integration
+- Nodejs
+- Express.js
+- MySQL
 
 ---
 
 ### 📌 Current Activities
-- 🔭 I’m currently working on web development projects  
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about web development  
 
