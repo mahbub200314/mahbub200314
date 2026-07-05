@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/e6/58/c6/e658c688a9f7829c28679c81d6643b3e.jpg" alt="Frontend Developer" />
+  <img src="[https://i.pinimg.com/1200x/e6/58/c6/e658c688a9f7829c28679c81d6643b3e.jpg](https://i.pinimg.com/1200x/d5/4b/54/d54b541cd28b69c9ed5f9e086ed57b91.jpg)" alt="Frontend Developer" />
 </p>
 
 ---
